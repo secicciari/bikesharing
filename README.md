@@ -1,6 +1,6 @@
 # bikesharing
 
-##Project Overview
+## Project Overview
 ### Purpose
 I've been asked to utilize Tableau to create visualizations that we can present to investors in order to show them that a bike-sharing program in Des Moines is a solid business proposal. I completed the analysis using August Citi Bike data from New York City in order to get a better understanding of what a bike-sharing program in Des Moines might look like.
 
@@ -17,7 +17,6 @@ All of the Citibike trips in our analysis last less than 60 minutes, with most l
 
 ![Checkout times by gender](https://github.com/secicciari/bikesharing/blob/main/resources/checkout_times_by_gender.PNG)
 Across genders, the trip duration appears relatively consistent. Female users may be more likely than male users to use a bike for longer than 20 minutes.
-
 
 ![Trips by gender by weekday](https://github.com/secicciari/bikesharing/blob/main/resources/trips_by_gender_by_weekday.PNG)
 Male subscribers make up the majority of Citibike users in our analysis. Thursday is the most popular day for subscribers to rent a bike, followed by Friday, then Tuesday and Monday.
